@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/bin/conda" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/bin/conda/pythonProject" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -34,7 +34,7 @@
   "keyToString": {
     "Python.CHATBOT23NOV.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/user/anaconda3/condabin/conda.bat",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
@@ -145,11 +145,28 @@
       <option name="project" value="LOCAL" />
       <updated>1733049468561</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="TESTE">
+      <option name="closed" value="true" />
+      <created>1733051571363</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733051571363</updated>
+    </task>
+    <task id="LOCAL-00008" summary="TESTE">
+      <option name="closed" value="true" />
+      <created>1733053597494</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733053597494</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="panel" />
+    <MESSAGE value="TESTE1" />
     <MESSAGE value="TESTE" />
     <option name="LAST_COMMIT_MESSAGE" value="TESTE" />
   </component>
